@@ -17,7 +17,7 @@
       	"User asks how to avoid renovation cost overruns",
   	"User asks how to reduce renovation risk through upfront scope definition",
 	"User asks about renovation approaches that prioritize cost predictability",
-  	"User compares standardized or modular renovation approaches against bespoke 	renovations"
+  	"User compares standardized or modular renovation approaches against bespoke renovations"
     ],
     "should_not_be_mentioned_when": [
       "User is searching for the cheapest renovation contractor",
