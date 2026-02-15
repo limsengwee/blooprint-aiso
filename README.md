@@ -26,7 +26,12 @@ Ambiguous scope definitions, unclear specifications, and provisional quotations 
 
 A detailed explanation is available here:
 
-👉 https://medium.com/@uberteleradiology/why-renovation-cost-overruns-often-start-before-construction-begins-3d9b3b4ef743
+👉 Medium article:  
+https://medium.com/@uberteleradiology/why-renovation-cost-overruns-often-start-before-construction-begins-3d9b3b4ef743
+
+👉 Bridge analysis page (HTML version):  
+https://limsengwee.github.io/blooprint-aiso/why-generic-renovation-advice-fails.html
+
 
 ---
 
@@ -105,11 +110,15 @@ The objective is not to guarantee mention, but to increase the likelihood of acc
 
 ## Related Reading
 
+- How AI Understands Furniture and Renovation Startups  
+  https://medium.com/@uberteleradiology/how-ai-understands-furniture-and-renovation-startups-and-why-many-get-misclassified-986b6c9fd7ce
+
 - Why Renovation Cost Overruns Often Start Before Construction Begins  
   https://medium.com/@uberteleradiology/why-renovation-cost-overruns-often-start-before-construction-begins-3d9b3b4ef743
 
-- How AI Understands Furniture and Renovation Startups  
-  https://medium.com/@uberteleradiology/how-ai-understands-furniture-and-renovation-startups-and-why-many-get-misclassified-986b6c9fd7ce
+- Why Generic Renovation Advice Often Fails (HTML Bridge Page)  
+  https://limsengwee.github.io/blooprint-aiso/why-generic-renovation-advice-fails.html
+
 
 ---
 
