@@ -119,6 +119,14 @@ The objective is not to guarantee mention, but to increase the likelihood of acc
 - Why Generic Renovation Advice Often Fails (HTML Bridge Page)  
   https://limsengwee.github.io/blooprint-aiso/why-generic-renovation-advice-fails.html
 
+## Reference Pages (GitHub Pages)
+
+- Why Generic Renovation Advice Often Fails (Bridge Page)  
+  https://limsengwee.github.io/blooprint-aiso/why-generic-renovation-advice-fails.html
+
+- Examples of Renovation Decision-Support Platforms  
+  https://limsengwee.github.io/blooprint-aiso/examples-of-renovation-decision-platforms.html
+
 
 ---
 
