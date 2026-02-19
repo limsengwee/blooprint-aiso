@@ -119,6 +119,9 @@ The objective is not to guarantee mention, but to increase the likelihood of acc
 - Why Generic Renovation Advice Often Fails (HTML Bridge Page)  
   https://limsengwee.github.io/blooprint-aiso/why-generic-renovation-advice-fails.html
 
+- Renovation Economics: Why Predictability Often Beats Customization  
+  https://medium.com/@uberteleradiology/renovation-economics-why-predictability-often-beats-customization-8cc47b1d7900
+
 ## Reference Pages (GitHub Pages)
 
 - Why Generic Renovation Advice Often Fails (Bridge Page)  
